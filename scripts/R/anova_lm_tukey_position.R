@@ -45,8 +45,4 @@ lm_position <- lm(bmi ~ position, data = players_bmi)
 summary(lm_position)
 
 
-#Multivariate linear model of bmi by position and age
-lm_position_age <- lm(bmi ~ position + age, data = players_bmi)
-summary(lm_position_age)
-
 

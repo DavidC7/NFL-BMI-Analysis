@@ -1,6 +1,6 @@
 # NFL-BMI-Analysis
 
-##Overview
+## Overview
 This project examines whether BMI varies systematically across NFL positions and what that reveals about the limitations of BMI as a descriptive measure of body composition in elite athletes.
 
 ## Research Question
@@ -15,12 +15,15 @@ Player data were collected from NFL team websites in March 2026 and limited to a
 - RStudio
 
 ## Project Files
-- docs/
-- scripts/
-  `├──` R/    
-  `└──` SQL/  
-- data/
-  `└──` csv/  
+
+```text
+docs/
+scripts/
+├── R/
+└── SQL/
+data/
+└── csv/
+```
 
 ## Key Findings
 - BMI varied more by position than by age group or team.

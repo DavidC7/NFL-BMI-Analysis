@@ -17,10 +17,10 @@ Player data were collected from NFL team websites in March 2026 and limited to a
 ## Project Files
 - docs/
 - scripts/
-  ├── R/    
-  └── SQL/  
+  `├──` R/    
+  `└──` SQL/  
 - data/
-  └── csv/  
+  `└──` csv/  
 
 ## Key Findings
 - BMI varied more by position than by age group or team.
